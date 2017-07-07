@@ -1,7 +1,10 @@
 # zillion
 This is a hardware and software project to create a Z80 plataform.
 
-* 2017-07-07 - Add RAM memory and Memory Schematic.
+* 2017-07-07 - Change memory address select.
+  * Change logic to select memory address.
+
+* 2017-07-04 - Add RAM memory and Memory Schematic.
   * Add IS62C256AL as RAM memory.
   * Add Memory Schematic.
 
