@@ -1,6 +1,10 @@
 # zillion
 This is a hardware and software project to create a Z80 plataform.
 
+* 2017-07-18 - Add clock circuit and decoupling capacitor.
+  * Add clock circuit based on crystal and inverter.
+  * Add 100nF decoupling capacitor.
+
 * 2017-07-07 - Change memory address select.
   * Change logic to select memory address.
 
