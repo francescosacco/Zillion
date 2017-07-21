@@ -1,6 +1,11 @@
 # zillion
 This is a hardware and software project to create a Z80 plataform.
 
+* 2017-07-21 - Change clock circuit and start ICP.
+  * Change clock circuit to use SN74LVC1GX04.
+  * Add reset at Ctrl Bus.
+  * Add buses to ICP.
+
 * 2017-07-18 - Add clock circuit and decoupling capacitor.
   * Add clock circuit based on crystal and inverter.
   * Add 100nF decoupling capacitor.
