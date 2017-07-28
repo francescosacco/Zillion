@@ -1,6 +1,9 @@
 # zillion
 This is a hardware and software project to create a Z80 plataform.
 
+* 2017-07-28 - Add ICP circuit.
+  * Add ATmega128 as ICP microcontroller.
+
 * 2017-07-21 - Change clock circuit and start ICP.
   * Change clock circuit to use SN74LVC1GX04.
   * Add reset at Ctrl Bus.
