@@ -1,6 +1,9 @@
 # zillion
 This is a hardware and software project to create a Z80 plataform.
 
+* 2017-09-12 - Fixed buses.
+  * Changed Control Bus to a Harness.
+
 * 2017-07-28 - Add ICP circuit.
   * Add ATmega128 as ICP microcontroller.
 
