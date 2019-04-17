@@ -88,7 +88,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LBQUSNJD
 
 [Document4]
-DocumentPath=power.SchDoc
+DocumentPath=expansion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -102,7 +102,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SRYITAAB
+DocumentUniqueId=QFHIFEUJ
 
 [Document5]
 DocumentPath=Zillion.PcbDoc
@@ -140,6 +140,40 @@ DocumentUniqueId=
 
 [Document7]
 DocumentPath=memory.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=uart.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=expansion.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1048,13 +1082,13 @@ Type110=0
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
 L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
+L3=NWEENEEENNEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
+L9=NWNENEEENNEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
