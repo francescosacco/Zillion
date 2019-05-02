@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=cpu.SchDoc
+Record=TopLevelDocument|FileName=Zillion.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Zillion.SchDoc|Designator=CPU|SchDesignator=CPU|FileName=cpu.SchDoc|SymbolType=Normal|RawFileName=cpu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Zillion.SchDoc|Designator=Expansion|SchDesignator=Expansion|FileName=expansion.SchDoc|SymbolType=Normal|RawFileName=expansion.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Zillion.SchDoc|Designator=Memory|SchDesignator=Memory|FileName=memory.SchDoc|SymbolType=Normal|RawFileName=memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Zillion.SchDoc|Designator=UART|SchDesignator=UART|FileName=uart.SchDoc|SymbolType=Normal|RawFileName=uart.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
